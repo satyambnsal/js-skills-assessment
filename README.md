@@ -1,6 +1,14 @@
 
 # Javascript skill assessment challenge
 
+
+## Steps
+
+1. Clck on `Use this Template` button to create a new repository.
+2. Solve all the questions in `js-exercises` folder. 
+3. Run test cases to make sure all test case passes.
+4. Once done, commit your solution to github and share repository in channel.
+  
 ## Requirements
 
 - Please ensure that you have these or later version of `node` and `npm`.
